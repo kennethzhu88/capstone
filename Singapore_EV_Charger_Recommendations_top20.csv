@@ -1,0 +1,21 @@
+location_id,town_name,latitude,longitude,existing_chargers_in_10_miles,resident_number_in_10_miles,car_number_in_10_miles,traffic_volume_in_10_miles,demand_score,recommendation_rank,recommendation_reason,recommendation_date
+LOC_4255,Woodlands,1.429924,103.788363,16,263445,37564,6171,82.67,1,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_4018,Toa Payoh,1.328419,103.846883,11,120258,38428,9917,77.77,2,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_5581,Ang Mo Kio,1.374076,103.844823,13,257579,10124,8850,74.62,3,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_6020,Pasir Ris,1.381332,103.955169,0,214926,16047,6355,72.23,4,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_2749,Bukit Batok,1.361161,103.763686,12,291473,15733,4112,71.64,5,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_8253,Sengkang,1.396466,103.886032,7,169249,36381,3850,70.72,6,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_1181,Tampines,1.342428,103.960415,17,268035,25372,2957,70.3,7,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_8021,Pasir Ris,1.374909,103.95392,9,235365,29049,2240,69.84,8,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_9014,Woodlands,1.437385,103.795436,15,180698,10433,9802,68.39,9,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_6124,Serangoon,1.354112,103.861919,17,262111,12887,5376,68.31,10,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_9702,Serangoon,1.364888,103.862506,16,131556,33961,4221,63.78,11,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_2343,Pasir Ris,1.373265,103.939821,3,194384,13277,4255,63.69,12,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_7270,Sengkang,1.395312,103.898206,9,217403,7518,5397,63.59,13,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_9035,Yishun,1.438704,103.832919,17,220846,7015,6502,63.5,14,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_9782,Ang Mo Kio,1.367955,103.85544,4,104765,20753,4833,59.32,15,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_8000,Ang Mo Kio,1.362385,103.856212,3,119814,19617,1703,54.3,16,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_9124,Yishun,1.425526,103.833798,14,82313,6491,7827,52.93,17,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_1962,Jurong West,1.345691,103.711489,9,52183,33763,1136,51.67,18,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_2378,Pasir Ris,1.366743,103.955415,11,76607,5587,5435,48.02,19,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
+LOC_1083,Woodlands,1.438645,103.78029,18,70180,17439,3159,46.66,20,"High resident, car number, and traffic volume with low existing chargers",2024-09-27
